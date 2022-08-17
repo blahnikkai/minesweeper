@@ -5,8 +5,8 @@
 
 using std::cout;
 
-const int BOARD_SIZE = 20;
-const int BOMB_NUM = 50;
+const int BOARD_SIZE = 15;
+const int BOMB_NUM = 35;
 
 void playGame() {
     srand(time(nullptr));
